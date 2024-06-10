@@ -1,7 +1,7 @@
 # Object-Lane_Detection
 
 ## Introduction
-The purpose of this project is to make a model which can detect objects while a person is driving and make a box around them with the label of the object. These objects include vehicles, persons, traffic signals 
+The purpose of this project is to make a model which can detect objects while a person is driving and make a box around them with the label of the object. These objects include vehicles, persons, traffic signals etc.
 
 ## Methodology
 ### Catering to YOLO Input Requirements
